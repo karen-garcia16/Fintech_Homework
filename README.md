@@ -81,10 +81,10 @@ These technolgies are appropriate because this is what the Alessa software curre
 
 
 ## Sources
-https://tier1fin.com/alessa/
-https://www.capterra.com/p/199987/Alessa/
-https://tier1fin.com/alessa/blog/alessa-acquired-by-tier1/
-https://fintech.global/regtech100/wp-content/uploads/2021/03/RT100-Summary-V14.pdf
-Podcast: Industry-experts-speak-top-10-regtech-trends-for-2020-and-beyond/
+*https://tier1fin.com/alessa/
+*https://www.capterra.com/p/199987/Alessa/
+*https://tier1fin.com/alessa/blog/alessa-acquired-by-tier1/
+*https://fintech.global/regtech100/wp-content/uploads/2021/03/RT100-Summary-V14.pdf
+*Podcast: Industry-experts-speak-top-10-regtech-trends-for-2020-and-beyond/
 
 
